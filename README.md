@@ -1,6 +1,6 @@
 **This repository contains:**
 
-Cibus usage data analytics - Int College DA class of 2024 - PBI project
+Cibus usage data analytics - Int College Data Analysts class of 2024 - PBI project
 -----------------------------------------------------------------------
 
 In this project created in 2024 I took a 3 year sample of the Cibus dining card usage between 2018-2020 (**Cibus 2018-2020.xlsx**), 
